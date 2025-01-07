@@ -1,11 +1,15 @@
 # NameAndDOB
 
-##Conditions
-My program displays the name and date of birth in the MM/DD/YYYY format .
+## Description
+This program outputs  the name and date of birth in the MM/DD/YYYY format .It's designed to be simple and straightforward, ensuring the displayed information is clear and precise
 
-##Requirements:
+## Requirements
+- The program should output text.
+- The program should display a name.
+- The program should display a date in the MM/DD/YYYY format.
+- The output should consist of two lines.
 
-1. The program output text
-2. The program displays a name
-3. The program display a date in the MM/DD/YYYY format
-4. Output consist of two Lines.
+## Usage
+To run the program, execute the following command:
+```sh
+java NameAndDOB
